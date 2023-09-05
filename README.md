@@ -1,2 +1,1 @@
-# java-jpa-aula1
-Java com JPA Aula1
+# Persistencia java-jpa
