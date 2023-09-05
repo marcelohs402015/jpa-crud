@@ -1,3 +1,3 @@
-# Persistencia jpa
+# Persistência jpa
 
 Em banco de dados MySql
